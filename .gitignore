@@ -1,4 +1,8 @@
 .DS_Store
 target
 tmp
+<<<<<<< Updated upstream
 bench/results
+=======
+.direnv/
+>>>>>>> Stashed changes
